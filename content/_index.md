@@ -14,5 +14,5 @@ something from it. Here are the blogs separated by category:
 * Geometry
 * Pre-Calculus
 * Probability and Statistic
-* [Hugo}(./tags/hugo)]
+* [Hugo}(https://coachshea.github.io/tags/hugo)]
 {{< /ticks >}}
