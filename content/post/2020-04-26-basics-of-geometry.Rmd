@@ -1,0 +1,13 @@
+---
+title: Basics of Geometry
+author: John Shea
+date: '2020-04-26'
+slug: basics-of-geometry
+categories: []
+tags:
+  - geometry
+---
+
+Geo means earth and metric means to mesure. Geometry is the study of mesuring
+the earth - sort of.
+
