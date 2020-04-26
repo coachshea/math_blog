@@ -12,6 +12,5 @@ something from it. Here are the blogs separated by category:
 * [Algebra](/math_blog/tags/algebra)
 * [Geometry](/math_blog/tags/geometry)
 * [Pre-Calculus](/math_blog/tags/pre-calculus)
-* [Calculus](/math_blog/tags/pre-calculus)
 * [Probability and Statistics](/math_blog/tags/statistics)
 {{< /ticks >}}

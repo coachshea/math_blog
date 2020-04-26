@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>statistics on Cupper</title>
+    <link>https://coachshea.github.io/math_blog/tags/statistics/</link>
+    <description>Recent content in statistics on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://coachshea.github.io/math_blog/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meaning of Statistics</title>
+      <link>https://coachshea.github.io/math_blog/2020-04-26-meaning-of-statistics/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://coachshea.github.io/math_blog/2020-04-26-meaning-of-statistics/</guid>
+      <description>Statistics is a perfect blending of math and data. When we put them together, we get ingiht. That is the meaning of statisitcs – to get insight our of data.</description>
+    </item>
+    
+  </channel>
+</rss>

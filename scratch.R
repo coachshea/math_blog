@@ -4,6 +4,6 @@ build_site()
 
 serve_site()
 
-new_post("Understanding Pre-Calculus", 
- tags="pre-calculus"
+new_post("Meaning of Statistics", 
+ tags="statistics"
 )
