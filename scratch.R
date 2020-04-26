@@ -2,6 +2,8 @@ library(blogdown)
 
 build_site()
 
-new_post("Basics of Geometry", 
- tags="geometry"
+serve_site()
+
+new_post("Understanding Pre-Calculus", 
+ tags="pre-calculus"
 )
