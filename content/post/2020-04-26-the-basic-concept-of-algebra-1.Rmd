@@ -5,7 +5,7 @@ date: '2020-04-26'
 slug: the-basic-concept-of-algebra-1
 tags:
   - algebra
-  - algebra-2
+  - algebra-1
 ---
 
 One concpet stand out above all others in an Algebra 1 class. Once this one
