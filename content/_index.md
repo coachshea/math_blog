@@ -19,4 +19,4 @@ something from it. Here are the blogs separated by category:
 
 # try this
 
-- [Hugo](https://coachshea.github.io/tags/hugo)
+- [Hugo](https://coachshea.github.io/math_blog/tags/hugo)
