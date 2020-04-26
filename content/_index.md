@@ -14,7 +14,7 @@ something from it. Here are the blogs separated by category:
 * Geometry
 * Pre-Calculus
 * Probability and Statistic
-* [Hugo](https://coachshea.github.io/tags/hugo)
+* [Hugo](https://coachshea.github.io/math_blog/tags/hugo)
 {{< /ticks >}}
 
 # try this
