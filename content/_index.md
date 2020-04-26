@@ -14,4 +14,5 @@ something from it. Here are the blogs separated by category:
 * Geometry
 * Pre-Calculus
 * Probability and Statistic
+* [Hugo}(./tags/hugo)]
 {{< /ticks >}}
