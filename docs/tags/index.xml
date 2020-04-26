@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Cupper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://coachshea.github.io/math_blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>algebra</title>
+      <link>https://coachshea.github.io/math_blog/tags/algebra/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://coachshea.github.io/math_blog/tags/algebra/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>hugo</title>
