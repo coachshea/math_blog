@@ -13,4 +13,5 @@ something from it. Here are the blogs separated by category:
 * [Geometry](https://coachshea.github.io/math_blog/tags/geometry)
 * [Pre-Calculus](https://coachshea.github.io/math_blog/tags/pre-calculus)
 * [Probability and Statistics](https://coachshea.github.io/tags/statistics)
+* [and Statistics](/tags/statistics/)
 {{< /ticks >}}
