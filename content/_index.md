@@ -9,9 +9,9 @@ important concepts taught in high school math classes. I hope everyone gets
 something from it. Here are the blogs separated by category:
 
 {{< ticks >}}
-* [Algebra](https://coachshea.github.io/math_blog/tags/algebra)
-* [Geometry](https://coachshea.github.io/math_blog/tags/geometry)
-* [Pre-Calculus](https://coachshea.github.io/math_blog/tags/pre-calculus)
+* [Algebra](/math_blog/tags/algebra)
+* [Geometry](/math_blog/tags/geometry)
+* [Pre-Calculus](/math_blog/tags/pre-calculus)
 * [Calculus](/math_blog/tags/pre-calculus)
-* [Probability and Statistics](https://coachshea.github.io/tags/statistics)
+* [Probability and Statistics](/math_blog/tags/statistics)
 {{< /ticks >}}
