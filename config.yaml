@@ -42,7 +42,7 @@ menu:
       url: /about/
       weight: 4
     - name: knitLatex
-      url: https://coachshea.github.io/knitLatex/
+      url: /knitLatex/
       weight: 5
 
 markup:
