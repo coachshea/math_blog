@@ -176,5 +176,17 @@ Follow the following steps:
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://coachshea.github.io/math_blog/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://coachshea.github.io/math_blog/projects/</guid>
+      <description>Other Projects As much as I enjoy teaching mathematics. I have several other projects that I also enjoy working on. Check them out below:
+Personal Page This is my personal website it mostly contains links to my other projects.
+knitLatex A CRAN package helping users to work with LaTeX table and some other helper functions.
+browserify-livescript an npm package to convert LiveScript files to javascript as part of the browserify ecosystem.</description>
+    </item>
+    
   </channel>
 </rss>
