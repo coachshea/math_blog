@@ -41,12 +41,9 @@ menu:
     - name: About
       url: /about/
       weight: 4
-    - name: knitLatex
-      url: /knitLatex/
-      weight: 5
     - name: Other Projects
       url: /projects/
-      weight: 6
+      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark
