@@ -1,4 +1,4 @@
-# Other Projects
+# Projects
 
 As much as I enjoy teaching mathematics. I have several other projects that I
 also enjoy working on. Check them out below:

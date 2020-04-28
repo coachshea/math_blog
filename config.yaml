@@ -41,7 +41,7 @@ menu:
     - name: About
       url: /about/
       weight: 4
-    - name: Other Projects
+    - name: Projects
       url: /projects/
       weight: 5
 

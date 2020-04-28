@@ -182,10 +182,10 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://coachshea.github.io/math_blog/projects/</guid>
-      <description>Other Projects As much as I enjoy teaching mathematics. I have several other projects that I also enjoy working on. Check them out below:
+      <description>Projects As much as I enjoy teaching mathematics. I have several other projects that I also enjoy working on. Check them out below:
 Personal Page This is my personal website it mostly contains links to my other projects.
 knitLatex A CRAN package helping users to work with LaTeX table and some other helper functions.
-browserify-livescript an npm package to convert LiveScript files to javascript as part of the browserify ecosystem.</description>
+browserify-livescript an npm package to convert LiveScript files to javascript as part of the browserify ecosystem. Includes sourcemaps.</description>
     </item>
     
   </channel>
