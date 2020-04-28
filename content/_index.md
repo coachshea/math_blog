@@ -6,7 +6,9 @@ title: "Math Blog"
 Welcome to the **Math Blog**. This site is in a very early stage of development,
 but the plan is to introduce all math related topics with a focus on the most
 important concepts taught in high school math classes. I hope everyone gets
-something from it. Here are the blogs separated by category:
+something from it. The blogs are separated by category in the list below. Also,
+check out my [personal page](https://coachshea.github.io) to see the other
+projects that I enjoy working on.
 
 {{< ticks >}}
 * [Algebra](/math_blog/tags/algebra)
