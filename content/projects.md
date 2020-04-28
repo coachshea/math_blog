@@ -7,7 +7,7 @@ also enjoy working on. Check them out below:
 
 This is my personal website it mostly contains links to my other projects.
 
-# [knitLatex](httts://coachshea.github.io/knitLatex)
+# [knitLatex](https://coachshea.github.io/knitLatex)
 
 A CRAN package helping users to work with LaTeX table and some other helper
 functions.
