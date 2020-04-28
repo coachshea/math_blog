@@ -10,7 +10,7 @@ something from it. Here are the blogs separated by category:
 
 {{< ticks >}}
 * [Algebra](/math_blog/tags/algebra)
-* [Geometry](/math_blog/tags/geometry)
+* [Geometry](/tags/geometry)
 * [Pre-Calculus](/math_blog/tags/pre-calculus)
 * [Probability and Statistics](/math_blog/tags/statistics)
 {{< /ticks >}}
